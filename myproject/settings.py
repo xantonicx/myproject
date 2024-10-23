@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-lrt9ekj$3fp7r)lt_!7bvtjs0d-bo!743*w=9g=&^cm=s%iuve
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*', 'ecom-irobot.up.railway.app', 'https://ecom-irobot.up.railway.app']
-CSRF_TRUSTED_ORIGINS = ['https://ecom-irobot.up.railway.app']
+ALLOWED_HOSTS = ['*', 'myproject-production-b8c4.up.railway.app', 'https://myproject-production-b8c4.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://myproject-production-b8c4.up.railway.app/']
 
 
 # Application definition
